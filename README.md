@@ -64,7 +64,11 @@ Insights from this analysis can guide **biodiversity conservation**, **habitat m
 2. Install required dependencies:
    ```bash
    pip install pandas matplotlib plotly streamlit sqlalchemy openpyxl python-docx python-pptx
-📜 Deliverables
+
+---
+
+##📜 Deliverables
+
 Cleaned Dataset – Ready for analysis and visualization.
 
 Word Report – Detailed analysis with insights and recommendations.
@@ -73,7 +77,10 @@ PowerPoint Presentation – Summary of findings for stakeholders.
 
 Interactive Dashboard – Filterable and interactive charts via Streamlit.
 
-🏆 Insights & Recommendations
+---
+
+## 🏆 Insights & Recommendations
+
 Forest habitats have slightly higher bird diversity than grasslands.
 
 Bird sightings peak in certain seasons, possibly due to migration or breeding.
